@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayesh Baviskar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [itsfalcon.me](itsfalcon.me)
+- 👨‍💻 All of my projects are available at [itsfalcon.me](https://itsfalcon.me)
 
 - 📫 How to reach me **jayeshbaviskar07@gmail.com**
 
